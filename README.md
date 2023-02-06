@@ -9,7 +9,7 @@ I made a bar chart comparing 200 horror movies ratings and only a few got a 100%
 * this is read in the tool pandas
 * the library comes from matplotlib
 * ideally when using other data files:
-  ** it should have around ten columns of data
+* it should have around ten columns of data
  
 2. I used replit.com for Python coding.
 
